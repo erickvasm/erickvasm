@@ -4,7 +4,7 @@
 
 I like web development and data science. 
 
-Skills:   JAVA  / HTML / CSS
+**Skills:**   JAVA  / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Python and Javascript 
