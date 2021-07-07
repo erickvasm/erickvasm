@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Erick Vasquez
 #### I'm a computer science student at [Universidad de Costa Rica ](https://www.ucr.ac.cr/)
-![I'm a computer science student at Universidad de Costa Rica](https://i.ibb.co/mB7jctd/My-Post1.png)
+![I'm a computer science student at Universidad de Costa Rica]
 
 I like web development and data science. 
 
