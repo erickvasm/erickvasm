@@ -1,7 +1,7 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Erick Vasquez
  
 - I'm a computer science student at [Universidad de Costa Rica ](https://www.ucr.ac.cr/) 
-- I'm a backend engineer at [Yaipan](https://www.yaipan.com/). - - I'm from Costa Rica <img src="https://cdn.pixabay.com/animation/2022/08/09/03/40/03-40-44-304_512.gif" width="20"/>
+- I'm a backend engineer at [Yaipan](https://www.yaipan.com/). I'm from Costa Rica <img src="https://cdn.pixabay.com/animation/2022/08/09/03/40/03-40-44-304_512.gif" width="20"/>
 
 
 ### Skills:   JAVA  / C# / PHP / VUE
