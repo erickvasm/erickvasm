@@ -4,14 +4,10 @@
 - I'm a backend engineer at [Yaipan](https://www.yaipan.com/). 
 
 
-### Skills:   JAVA  / C# / Vue.js
+### Skills:   JAVA  / C# / Typescript / React.js
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning in backend themes and cloud
-
-<br>
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/erickvasquezmurillo/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/erickvasm/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/erickvasm)  
+- 🌱 I’m currently learning software engineering themes and cloud
 
 <br>
 
