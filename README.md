@@ -10,25 +10,20 @@
 
 </div>
 
----
 
 <!-- ABOUT ME WINDOW -->
 ```bash
 $ cat about-me.txt
 
-
 I’m a person who’s passionate about technology, design, and solving problems. 
-I enjoy building things that not only work well, but also feel meaningful and inspiring.
 
-Outside of coding, I love watching sunsets, going out, spending time with friends 
-and family, working out, and exploring new places.
+Outside of coding, I love watching sunsets, going out, spending time with friends and family,
+working out, and exploring new places.
 ```
 
 - 🌱 I’m currently learning software engineering themes and cloud
 - 🔭 I’m currently working on this page. 
 
-
----
 
 <!-- TECH STACK WINDOW -->
 <img src="https://img.shields.io/badge/-tech--stack.json-1e1e2e?style=flat&logo=gnometerminal&logoColor=white" />
@@ -37,17 +32,12 @@ and family, working out, and exploring new places.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
